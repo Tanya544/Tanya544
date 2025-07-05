@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Tanya</h1>
+<h1 align="center">Hi, I'm Tanya</h1>
 
 ## 💫 About Me
 I'm a Frontend Developer who specializes in creating modern, responsive websites and clean user interfaces.
