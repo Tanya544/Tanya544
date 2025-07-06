@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Tanya</h1>
 
-![My Image](./assets/photoforportfolio.jpg)
-
 ## 💫 About Me
 I'm a Frontend Developer who specializes in creating modern, responsive websites and clean user interfaces.
 I build web applications using technologies like React, TypeScript, Next.js, and Tailwind CSS — always focused on great user experience and performance.
