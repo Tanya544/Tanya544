@@ -2,6 +2,7 @@
 
 ## 💫 About Me
 I am a Full-Stack developer focused on both frontend and backend development of modern web applications. I have experience working with technologies such as React, Next.js, TypeScript, Node.js, Express, Tailwind CSS, and PostgreSQL. My main goal is to create efficient, scalable, and user-friendly solutions.
+
 I am actively deepening my knowledge in Blockchain development, Artificial Intelligence, and Machine Learning to integrate cutting-edge technologies into my projects and develop innovative solutions.
 
 ## 🛠 Tech Stack
