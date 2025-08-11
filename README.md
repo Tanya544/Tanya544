@@ -1,4 +1,4 @@
-<h1 align="center">I'm Tanya, a Web/Web3 Developer</h1>
+<h1 align="center">Hey! My name is Tanya. I am a Software Engineering Student</h1>
 
 ## 💫 About Me
 I am a Full-Stack developer focused on both frontend and backend development of modern web applications. I have experience working with technologies such as React, Next.js, TypeScript, Node.js, Express, Tailwind CSS. My main goal is to create efficient, scalable, and user-friendly solutions.
